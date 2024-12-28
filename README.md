@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 🚀 Skills
 
 - **Languages:** Python, JavaScript, Java,C
-- **Frameworks:** Django, React, Node.js
+- **Frameworks:** React,Node.js
 - **Databases:**  MongoDB,Firebase
 
 ## 📈 GitHub Stats
