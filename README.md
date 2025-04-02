@@ -29,12 +29,12 @@
 ```yaml
 name: Anbuselvan
 currently:
-  learning: "React.js 🚀"
+  learning: "MERN Stack 🚀"
   exploring: ["Advanced Algorithms", "Web Development"]
 looking_to_collaborate_on: "Innovative Software Solutions"
 ask_me_about: "Web Development"
-contact: "your-email@example.com"
-fun_fact: "I enjoy solving puzzles and participating in hackathons"
+contact: "anbuselvan7980@gmail.com"
+fun_fact: "I enjoy solving puzzles"
 ```
 
 <br/>
@@ -82,7 +82,7 @@ fun_fact: "I enjoy solving puzzles and participating in hackathons"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnbuSelvan007&theme=redical&bg_color=20232a&hide_border=true&line=58A6FF&point=1F6FEB" width="95%"/>
 </div>
 
-<!-- CODING TIME STATS -->
+<!-- CODING TIME STATS
 <h2>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px">
   <span> Weekly Coding Time </span>
@@ -90,56 +90,23 @@ fun_fact: "I enjoy solving puzzles and participating in hackathons"
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnbuSelvan007&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</div>
+</div> -->
 
-<!-- SPOTIFY INTEGRATION -->
-<h2>
-  <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="35px">
-  <span> Currently Listening </span>
-</h2>
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
-</div>
 
 <!-- CONNECT WITH ME ANIMATED -->
+
 <h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px">
-  <span> Connect with Me </span>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dhYzRybjRqbXFmOGhzY3lrZ2pramY5dnNlcWx0MGN1bzBwbHB4eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XfLpgguefqGopOGzfg/giphy.webp" width="35px">
+  <span> Contact me</span>
 </h2>
+<div align="center"><a href="https://www.linkedin.com/in/anbuselvan-s-7633a525a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://x.com/anbuselvan2212"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://leetcode.com/u/anbuselvans464/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a><a href="mailto:anbuselvan7980@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/yourprofile">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnbuSelvan007/AnbuSelvan007/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnbuSelvan007/AnbuSelvan007/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnbuSelvan007/AnbuSelvan007/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<!-- 3D CONTRIBUTION CALENDAR -->
-<div align="center">
-  <img width="100%" src="https://cdn.jsdelivr.net/gh/vn7n24fzkq/github-profile-summary-cards@release/profile-summary-card-output/dracula/0-profile-details.svg" alt="GitHub Contribution Calendar" style="width: 100%">
-</div>
 
 <!-- ANIMATED QUOTES -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+ <p>Failure is not an end, It is a beginning for Success!</p>
+                                 
 </div>
 
 <!-- FANCY FOOTER -->
